@@ -26,10 +26,10 @@ The Pro edition additionally includes:
 - Diagnostic export to TXT and CSV
 
 Pro Early Access price:
-EUR 7.99 one-time purchase
+EUR 7.99 one-time purchase, including applicable sales tax where required.
 
-Early Access customers retain Pro access through version 1.0 without
-paying the difference to the planned regular price.
+Early Access customers retain Pro access through the 1.0 release
+without paying the difference to the planned regular price.
 
 A Pro license can be activated on up to 3 devices simultaneously.
 
@@ -93,11 +93,11 @@ Privacy
 -------
 Why Did Windows Restart? analyzes Windows diagnostic information locally.
 
-License activation and validation communicate with the licensing service
-in order to verify Pro license status.
+License activation and validation communicate with the Lemon Squeezy, 
+the licensing and commerce service, in order to verify Pro license status.
 
 The application does not intentionally upload Windows Event Log contents,
-restart history, crash details or diagnostic reports to the licensing service.
+restart history, crash details or diagnostic reports to Lemon Squeezy.
 
 Support
 -------
