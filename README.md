@@ -31,6 +31,8 @@ EUR 7.99 one-time purchase, including applicable sales tax where required.
 Early Access customers retain Pro access through the 1.0 release
 without paying the difference to the planned regular price.
 
+Licensing and upgrade terms for versions after 1.0 may be revised separately.
+
 A Pro license can be activated on up to 3 devices simultaneously.
 
 License validation
