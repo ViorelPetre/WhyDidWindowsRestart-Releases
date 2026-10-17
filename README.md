@@ -28,6 +28,10 @@ The Pro edition additionally includes:
 Pro Early Access price:
 EUR 7.99 one-time purchase, including applicable sales tax where required.
 
+Pro Early Access — €7.99 one-time
+Includes EVTX import, Diagnostic Summary, Nearby Critical/Error event analysis and TXT/CSV export.
+Buy Pro (https://viorelpp.lemonsqueezy.com/checkout/buy/b5334752-1794-4633-8c8e-1c09ed86e410)
+
 Early Access customers retain Pro access through the 1.0 release
 without paying the difference to the planned regular price.
 
